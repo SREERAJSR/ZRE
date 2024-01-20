@@ -1,4 +1,4 @@
-![Header](./Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png)
+[![Header](./Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png)
 
 
 
