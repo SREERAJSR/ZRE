@@ -1,6 +1,3 @@
-[![Header](./Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png)
-
-
 
 <h1 align="center">Hi 👋, I'm SREERAJ_SR</h1>
 <h3 align="center">"Passionate Self-Taught Developer | Mastering the MEAN Stack | Dedicated to Crafting Innovative Solutions 🚀"</h3>
