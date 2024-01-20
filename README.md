@@ -5,7 +5,7 @@
 <h3 align="center">"Passionate Self-Taught Developer | Mastering the MEAN Stack | Dedicated to Crafting Innovative Solutions 🚀"</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreerajsr" alt="sreerajsr" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [StrangerHood](https://github.com/SREERAJSR/StrangerHood)
 
