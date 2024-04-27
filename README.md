@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm SREERAJ_SR</h1>
-<h3 align="center">"Passionate Self-Taught Developer | Mastering the MEAN Stack | Dedicated to Crafting Innovative Solutions 🚀"</h3>
+<h3 align="center">Passionate Full Stack Developer | Mastering the MEAN Stack | Creating Innovative Solutions 🚀</h3>
+<p align="center">As a dedicated freelancer full stack developer, I'm committed to delivering high-quality solutions that meet clients' needs. With a strong understanding of the MEAN stack (MongoDB, Express.js, Angular, Node.js), I have the skills and knowledge required to craft innovative and efficient applications. I'm always eager to expand my expertise and stay up-to-date with the latest trends and technologies. Let's collaborate and bring your ideas to life!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
