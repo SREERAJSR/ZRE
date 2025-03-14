@@ -4,13 +4,7 @@
 <p align="center">As a dedicated freelancer full stack developer, I'm committed to delivering high-quality solutions that meet clients' needs. With a strong understanding of the MEAN stack (MongoDB, Express.js, Angular, Node.js), I have the skills and knowledge required to craft innovative and efficient applications. I'm always eager to expand my expertise and stay up-to-date with the latest trends and technologies. Let's collaborate and bring your ideas to life!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-<img align="right" alt="Coding" width="400" src="
-<h1 align="center">Hi 👋, I'm ZRΣ </h1>
-<h3 align="center">Passionate Full Stack Developer | Mastering the MEAN Stack | Creating Innovative Solutions 🚀</h3>
-<p align="center">As a dedicated freelancer full stack developer, I'm committed to delivering high-quality solutions that meet clients' needs. With a strong understanding of the MEAN stack (MongoDB, Express.js, Angular, Node.js), I have the skills and knowledge required to craft innovative and efficient applications. I'm always eager to expand my expertise and stay up-to-date with the latest trends and technologies. Let's collaborate and bring your ideas to life!</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 - 🔭 I’m currently working on [CallQuaint](https://github.com/SREERAJSR/CallQuaint)
 
